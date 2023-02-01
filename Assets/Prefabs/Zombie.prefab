@@ -102,6 +102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  ZombieHp: {fileID: 0}
 --- !u!50 &8302870211928274730
 Rigidbody2D:
   serializedVersion: 4
@@ -235,3 +236,4 @@ MonoBehaviour:
   - {fileID: 4795691703549182603}
   - {fileID: 8083113663840774220}
   health: 100
+  healthbar: {fileID: 7109613644309088277, guid: 3f127d6de4528b542a3a2f45d5c8679e, type: 3}
